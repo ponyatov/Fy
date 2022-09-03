@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['slot',['slot',['../classFx_1_1Object.html#ae81fb1f7afcd3eaaa43af7db38d6ff99',1,'Fx::Object']]]
+  ['slot',['slot',['../classFy_1_1Object.html#aa9857f03e328f157c20208ef3dfeaea9',1,'Fy::Object']]]
 ];

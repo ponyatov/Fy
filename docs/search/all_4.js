@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['dot',['dot',['../namespaceFx.html#afa548bbf7e4f89d821eaf501328f8d93',1,'Fx']]],
-  ['dump',['dump',['../classFx_1_1Object.html#ab1dc3baae1b83ccee14d85a1f417eb14',1,'Fx::Object']]]
+  ['dot',['dot',['../namespaceFy.html#aea04ab47f6e9b5f18a980ac5be7c5076',1,'Fy']]],
+  ['dump',['dump',['../classFy_1_1Object.html#a3607153f9779080a722caf7bc325951f',1,'Fy::Object']]]
 ];

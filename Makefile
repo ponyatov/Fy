@@ -45,3 +45,29 @@ install update:
 	sudo apt install -yu `cat apt.txt`
 	pip3 install --user -U pip autopep8 pytest
 	pip3 install --user -U -r requirements.txt
+
+# merge
+MERGE  = Makefile README.md doxy.gen $(S)
+MERGE += apt.txt requirements.txt
+MERGE += .vscode bin doc lib inc src tmp
+
+dev:
+	git push -v
+	git checkout $@
+	git pull -v
+	git checkout shadow -- $(MERGE)
+	$(MAKE) doxy ; git add docs
+
+shadow:
+	git push -v
+	git checkout $@
+	git pull -v
+
+release:
+	git tag $(NOW)-$(REL)
+	git push -v --tags
+	$(MAKE) shadow
+
+ZIP = tmp/$(MODULE)_$(NOW)_$(REL)_$(BRANCH).zip
+zip:
+	git archive --format zip --output $(ZIP) HEAD

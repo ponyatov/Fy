@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['val',['val',['../classFx_1_1Object.html#a93cdc99c5a9b65fc91c5611a28895faa',1,'Fx.Object.val()'],['../classFx_1_1Hex.html#ab6f3d6ca5eba2610bc37d4577e3f0bea',1,'Fx.Hex.val()'],['../classFx_1_1Bin.html#a8e305b75f081a934b9546c7b8e3b8677',1,'Fx.Bin.val()']]]
+  ['val',['val',['../classFy_1_1Object.html#a0c8f2883868b8b676534a379a284a5d1',1,'Fy.Object.val()'],['../classFy_1_1Hex.html#a7c176669e9cfbb017d517726a3647f37',1,'Fy.Hex.val()'],['../classFy_1_1Bin.html#a642a542d1a15bafb323681f0f5c00e58',1,'Fy.Bin.val()']]]
 ];

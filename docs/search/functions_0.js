@@ -1,9 +1,9 @@
 var searchData=
 [
-  ['_5f_5ffloordiv_5f_5f',['__floordiv__',['../classFx_1_1Object.html#a18b8886daa68123e7f82ff9fc5594678',1,'Fx::Object']]],
-  ['_5f_5fgetitem_5f_5f',['__getitem__',['../classFx_1_1Object.html#abc2b5c98f6bf40e180df313f3913169b',1,'Fx::Object']]],
-  ['_5f_5finit_5f_5f',['__init__',['../classFx_1_1Object.html#a0d3f7a81edb7382538b808662ac384a7',1,'Fx.Object.__init__()'],['../classFx_1_1Num.html#ae81de5087a14b996f96fcb9a9dc5961b',1,'Fx.Num.__init__()'],['../classFx_1_1Int.html#a6bb3c8f5084c1fb1274bd1eab71e5a0e',1,'Fx.Int.__init__()'],['../classFx_1_1Hex.html#a423eae3297f4ed9ce6f14e7778ba16e5',1,'Fx.Hex.__init__()'],['../classFx_1_1Bin.html#ae6de274a856a60345adb386a93c85785',1,'Fx.Bin.__init__()'],['../classFx_1_1Cmd.html#a80e2b1a52b4a75d910d0437da65c81a7',1,'Fx.Cmd.__init__()']]],
-  ['_5f_5frepr_5f_5f',['__repr__',['../classFx_1_1Object.html#a6c49b08966539d4c6c44110ad87c67c3',1,'Fx::Object']]],
-  ['_5f_5frshift_5f_5f',['__rshift__',['../classFx_1_1Object.html#ae65ee61d6f22280e77419b0a64bbf816',1,'Fx::Object']]],
-  ['_5f_5fsetitem_5f_5f',['__setitem__',['../classFx_1_1Object.html#af1d67d39b429a229cf2a75ce700dd92d',1,'Fx::Object']]]
+  ['_5f_5ffloordiv_5f_5f',['__floordiv__',['../classFy_1_1Object.html#a88236903f22bb0a2f788915a4dd54665',1,'Fy::Object']]],
+  ['_5f_5fgetitem_5f_5f',['__getitem__',['../classFy_1_1Object.html#a00dae3d9c16327a140411ce7f6e87b12',1,'Fy::Object']]],
+  ['_5f_5finit_5f_5f',['__init__',['../classFy_1_1Object.html#a019489994768269d2751178d00236e82',1,'Fy.Object.__init__()'],['../classFy_1_1Num.html#a9cedb5cc1a05460c53208e789fc18ba5',1,'Fy.Num.__init__()'],['../classFy_1_1Int.html#a8df2fe442d0dff1822019639af1b2c2e',1,'Fy.Int.__init__()'],['../classFy_1_1Hex.html#a04ad4639bdf3d429db4bf8e48e9a69d7',1,'Fy.Hex.__init__()'],['../classFy_1_1Bin.html#ac74f25e9f8eb55c3e32b6b210b18063a',1,'Fy.Bin.__init__()'],['../classFy_1_1Cmd.html#a1f80d2e8d4408bf0e7d231fefc60bb52',1,'Fy.Cmd.__init__()']]],
+  ['_5f_5frepr_5f_5f',['__repr__',['../classFy_1_1Object.html#a78f1ca6b1bc80fcda4765a8390eb6981',1,'Fy::Object']]],
+  ['_5f_5frshift_5f_5f',['__rshift__',['../classFy_1_1Object.html#abc63cbcf06dc595d15a7fad36d969383',1,'Fy::Object']]],
+  ['_5f_5fsetitem_5f_5f',['__setitem__',['../classFy_1_1Object.html#afc4ee39543cf3e406dc9c2060a3a6161',1,'Fy::Object']]]
 ];

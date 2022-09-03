@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['exec',['exec',['../classFx_1_1Primitive.html#a919fbbc4c71243afd63b7264afe06c43',1,'Fx.Primitive.exec()'],['../classFx_1_1Sym.html#a9ee23801b0c2938bce9f9561cccd279e',1,'Fx.Sym.exec()']]]
+  ['exec',['exec',['../classFy_1_1Primitive.html#acaea41ba8a0c08bdfc63315fbff119ec',1,'Fy.Primitive.exec()'],['../classFy_1_1Sym.html#a7a2100bc365acf442b1d36c758286e20',1,'Fy.Sym.exec()']]]
 ];

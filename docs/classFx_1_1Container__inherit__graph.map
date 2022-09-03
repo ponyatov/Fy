@@ -1,7 +1,0 @@
-<map id="Fx.Container" name="Fx.Container">
-<area shape="rect" id="node3" href="$classFx_1_1Map.html" title="Fx.Map" alt="" coords="5,155,72,181"/>
-<area shape="rect" id="node4" href="$classFx_1_1Vector.html" title="Fx.Vector" alt="" coords="97,155,175,181"/>
-<area shape="rect" id="node6" href="$classFx_1_1VM.html" title="FORTH Virtual Machine combines nest:stack and slot :vocabulary. " alt="" coords="200,155,261,181"/>
-<area shape="rect" id="node2" href="$classFx_1_1Object.html" title="object graph item " alt="" coords="97,5,175,32"/>
-<area shape="rect" id="node5" href="$classFx_1_1Seq.html" title="Fx.Seq" alt="" coords="104,229,168,256"/>
-</map>

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['active',['Active',['../classFx_1_1Active.html',1,'Fx.Active'],['../group__active.html',1,'(Global Namespace)']]]
+  ['active',['Active',['../classFy_1_1Active.html',1,'Fy.Active'],['../group__active.html',1,'(Global Namespace)']]]
 ];

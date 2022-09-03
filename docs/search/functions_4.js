@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['head',['head',['../classFx_1_1Object.html#aff76e0b126847feffddc918ca93c2605',1,'Fx::Object']]]
+  ['head',['head',['../classFy_1_1Object.html#af94b773d3c51e23c4c354c1a0acfdf5b',1,'Fy::Object']]]
 ];

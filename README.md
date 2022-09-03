@@ -1,12 +1,12 @@
-# `Fx`
+# `Fy`
 ## FORTH in Python
 
 (c) Dmitry Ponyatov <<dponyatov@gmail.com>> 2022 MIT
 
-github: https://github.com/ponyatov/Fx
+github: https://github.com/ponyatov/Fy
 
 ```shell
-git clone -o bb git@bitbucket.org:ponyatov/fx.git ~/Fx
+git clone -o bb git@bitbucket.org:ponyatov/Fy.git ~/Fy
 cd ~/Fx
 ln -fs ~/rc rc
 git checkout --orphan shadow
@@ -19,5 +19,5 @@ git push -v -u bb shadow
 ```
 
 ```shell
-code Fx.py
+code Fy.py
 ```
