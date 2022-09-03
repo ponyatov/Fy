@@ -1,0 +1,13 @@
+PROJECT_NAME           = "Fx"
+PROJECT_BRIEF          = "FORTH in Python"
+PROJECT_LOGO           = doc/logo.png
+OUTPUT_DIRECTORY       =
+WARN_IF_UNDOCUMENTED   = NO
+INPUT                  = README.md src doc Fx.py
+RECURSIVE              = YES
+USE_MDFILE_AS_MAINPAGE = README.md
+HTML_OUTPUT            = docs
+GENERATE_LATEX         = NO
+EXTENSION_MAPPING      = ino=C++
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
